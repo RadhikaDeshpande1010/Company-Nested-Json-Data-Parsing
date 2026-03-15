@@ -1,6 +1,6 @@
-<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> Company Nested JSON Data Parsing </h1>
+<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> Company Hierarchy Json Parsing </h1>
 
-<img src="https://github.com/RadhikaDeshpande1010/Company Hierarchy Json Parsing/blob/main/banner.png">
+<img src="https://github.com/RadhikaDeshpande1010/company_hierarchy_json_parsing/blob/main/Company%20Hierarchy%20JSON%20Parsing.png">
 
 ## 📌 Project Overview
 This project focuses on **parsing and formatting nested JSON data** using Python.  
